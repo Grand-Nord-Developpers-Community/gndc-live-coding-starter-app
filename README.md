@@ -15,7 +15,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 1. Clonez ce dépôt :
     ```bash
-        git clone https://github.com/OumarouSandaSouley/gndc-live-coding-starter-app.git
+        git clone https://github.com/Grand-Nord-Developpers-Community/gndc-live-coding-starter-app.git
 2. Naviguez dans le dossier du projet :
     ```bash
         cd gndc-live-coding-starter-app
